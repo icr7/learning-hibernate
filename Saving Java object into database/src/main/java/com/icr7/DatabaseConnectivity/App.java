@@ -1,4 +1,4 @@
-package com.icr7.database;
+package com.icr7.DatabaseConnectivity;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
